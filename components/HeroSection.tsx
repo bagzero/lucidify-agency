@@ -34,7 +34,7 @@ const HeroSection = () => {
           </div>
           <h1 className={`${poppins.className} TitleFont my-[22px] text-center lg:max-w-[80%] xl:max-w-[100%] max-w-[90%]`}>Take your <span className="TextGradient">business</span> to the next level.</h1>
           <div className="max-w-[75%] sm:max-w-[80%] mb-[45px]">
-            <h3 className="TextFont text-center">yo mama sucked my left nut Lucidify will build your dream website hassle-free, delivering a seamless process that saves you time and effort.</h3>
+            <h3 className="TextFont text-center">Lucidify will build your dream website hassle-free, delivering a seamless process that saves you time and effort.</h3>
           </div>
           <div className="flex justify-center">
             <Link
@@ -62,5 +62,6 @@ const HeroSection = () => {
     </section>
   )
 }
+
 
 export default HeroSection
